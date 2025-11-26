@@ -1,0 +1,10 @@
+# Mac OS
+*.DS_Store
+
+# Python
+.venv/
+
+# PyInstaller Files:
+build/
+dist/
+*.spec
